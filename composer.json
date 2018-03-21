@@ -1,0 +1,15 @@
+{
+    "name": "coding-boot-camp/fullstack-lesson-plans",
+    "description": "Full Stack Lesson Plans for the best coding bootcamp in the world",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    },
+    "license": "The Coding Bootcamp",
+    "authors": [
+        {
+            "name": "bobbravo2",
+            "email": "bob@trilogyed.com"
+        }
+    ]
+}

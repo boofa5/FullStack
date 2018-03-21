@@ -1,0 +1,9 @@
+#!/bin/sh
+
+if [ ! -f vendor/bin/phpunit ]; then
+    echo "PHPUnit not found - Please install composer & run bash$>composer install"
+elif [ ! -f phpunit.xml ]; then
+    echo "No local phpunit.xml found. Please copy the phpunit.dist.xml and edit your own filepath"
+else
+    ./vendor/bin/phpunit --configuration=phpunit.xml
+fi

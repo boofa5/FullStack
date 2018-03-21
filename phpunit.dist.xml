@@ -1,0 +1,11 @@
+<phpunit stopOnFailure="false">
+    <testsuites>
+        <testsuite name="QA">
+            <directory>tests/</directory>
+        </testsuite>
+    </testsuites>
+    <php>
+        <!--ENTER THE FULL (ABSOLUTE) PATH TO THIS REPO -->
+        <const name="REPO_ABSPATH" value="/Users/robertgregor/git/FullStack-Lesson-Plans"/>
+    </php>
+</phpunit>

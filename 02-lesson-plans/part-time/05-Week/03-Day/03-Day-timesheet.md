@@ -1,0 +1,22 @@
+| Lesson Plan 5.3 - Time Tracker |        |                                                      |      |          |     |                                                                                 |
+| ------------------------------ | ------ | ---------------------------------------------------- | ---- | -------- | --- | ------------------------------------------------------------------------------- |
+|                                | Number | Activity                                             | Time | Value    |     | Notes                                                                           |
+| 10:00 AM                       | 1      | Partners Do: The Virtues of Visualizing Problems     | 0:10 | HIGH     |     | High or Critical Activities:                                                    |
+| 10:10 AM                       | 2      | Instructor Do: Explain Visualizations                | 0:10 | CRITICAL |     | Are worth spending extra moments on in class and/or may be pivotal to homework. |
+| 10:20 AM                       | 3      | Partners Do: Missing Cards                           | 0:15 | HIGH     |     |                                                                                 |
+| 10:35 AM                       | 4      | Instructor Do: Go over Missing Cards                 | 0:05 | HIGH     |     |                                                                                 |
+| 10:40 AM                       | 5      | Instructor Do: Explain The Interview Process         | 0:05 | HIGH     |     |                                                                                 |
+| 10:45 AM                       | 6      | Students Do: Bash Exercise                           | 0:05 |          |     |                                                                                 |
+| 10:50 AM                       | 7      | Everyone Do: Go Over Bash Questions                  | 0:03 |          |     |                                                                                 |
+| 10:53 AM                       | 8      | Students Do: FizzBuzz                                | 0:20 | HIGH     |     |                                                                                 |
+| 11:13 AM                       | 9      | Instructor Do: Go Over FizzBuzz                      | 0:05 | HIGH     |     |                                                                                 |
+| 11:18 AM                       | 10     | Students Do: Prime Checker                           | 0:20 |          |     |                                                                                 |
+| 11:38 AM                       | 11     | Instructor Do: Go over Prime Checker                 | 0:05 |          |     |                                                                                 |
+| 11:43 AM                       | 12     | Students Do: File Sorter                             | 0:30 |          |     |                                                                                 |
+| 12:13 PM                       | 13     | Instructor Do: Go Over File Sorter                   | 0:10 |          |     |                                                                                 |
+| 12:23 PM                       | 14     | BREAK                                                | 0:40 |          |     |                                                                                 |
+| 1:03 PM                        | 15     | Instructor Do: Welcome Back                          | 0:03 |          |     |                                                                                 |
+| 1:06 PM                        | 16     | Instructor Do: Very Brief Introduction to Algorithms | 0:05 | HIGH     |     |                                                                                 |
+| 1:11 PM                        | 17     | Students Do: Bubble Sort                             | 0:40 | CRITICAL |     |                                                                                 |
+| 1:51 PM                        | 18     | Instructor Do: Go Over Bubble Sort and Wrap Up       | 0:10 | CRITICAL |     |                                                                                 |
+| 2:01 PM                        | 19     | END                                                  |      |          |     |                                                                                 |
